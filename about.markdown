@@ -19,6 +19,6 @@ You can find the source code for Jekyll at GitHub:
 
 Members:
 
-[Koya][https://github.com/KoyaS]
+[Koya](https://github.com/KoyaS)
 
-[Avery][https://github.com/Avery2]
+[Avery](https://github.com/Avery2)
